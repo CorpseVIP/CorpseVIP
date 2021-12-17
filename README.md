@@ -1,7 +1,3 @@
---  a shitty prison life admin script
-
-
-
 local CmdGui = Instance.new("ScreenGui")
 local Background = Instance.new("Frame")
 local CmdName = Instance.new("TextLabel")
